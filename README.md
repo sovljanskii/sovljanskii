@@ -3,7 +3,7 @@
 - 📚 I’m currently studying Computer engineering at Racunarski Fakultet in Belgrade
 - 📫 How to reach me:
     email: sovljanski04@gmail.com
-    LinkedIn in/sovljanski04
+    LinkedIn in/sovljanski
 
 <!---
 sovljanski04/sovljanski04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
