@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitrije!
 - 👀 I’m interested in software engineering, web development etc..
-- 📚 I’m currently studying Computer engineering at Racunarski Fakultet in Belgrade
+- 📚 I’m currently studying Software engineering at Racunarski Fakultet in Belgrade
 - 📫 How to reach me: <br/>
     email: sovljanski04@gmail.com<br/>
     LinkedIn: in/sovljanski<br/>
