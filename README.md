@@ -11,7 +11,7 @@ Full-stack web developer and software engineering student at RAF, Belgrade. I bu
 
 ## Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sovljanskii&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sovljanskii&show_icons=true&theme=transparent&hide_border=true&hide=stars&rank_icon=github)
 
 ![Languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sovljanskii&theme=transparent)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sovljanskii&theme=transparent&utcOffset=1)
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sovljanskii&theme=transparent)
