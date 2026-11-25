@@ -1,6 +1,6 @@
 # Dimitrije Šovljanski
 
-Full-stack web developer and software engineering student at RAF, Belgrade. I build websites and web applications for clients end to end through [SovaCode](https://sovljanski.com), and work on development and SEO tooling at [Get Stuff Digital](https://getstuffdigital.co), an organic growth agency for early-stage companies. The rest of my time goes to systems-level side projects.
+Full-stack web developer and software engineering student at RAF, Belgrade. I build websites and web applications for clients end to end through SovaCode, and work on development and SEO tooling at [Get Stuff Digital](https://getstuffdigital.co), an organic growth agency for early-stage companies. The rest of my time goes to systems-level side projects.
 
 [sovljanski.com](https://sovljanski.com) · [LinkedIn](https://www.linkedin.com/in/sovljanski)
 
